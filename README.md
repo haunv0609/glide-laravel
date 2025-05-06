@@ -10,7 +10,7 @@
 ## Installation
 
 ```bash
-$ composer require league/glide-laravel
+$ composer require haunv/glide-laravel
 ```
 
 ## Documentation
