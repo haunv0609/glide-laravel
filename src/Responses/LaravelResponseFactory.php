@@ -6,7 +6,7 @@ use League\Flysystem\FilesystemOperator;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\StreamedResponse;
 
-class SymfonyResponseFactory implements ResponseFactoryInterface
+class LaravelResponseFactory implements ResponseFactoryInterface
 {
     /**
      * Request object to check "is not modified".
